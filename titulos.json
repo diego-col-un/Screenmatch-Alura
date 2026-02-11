@@ -1,0 +1,18 @@
+[
+  {
+    "Nombre": "Matrix",
+    "FechaDeLanzamiento": 1993,
+    "DuracionEnMinutos": 60,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeLasEvaluaciones": 0
+  },
+  {
+    "Nombre": "Cars",
+    "FechaDeLanzamiento": 2006,
+    "DuracionEnMinutos": 116,
+    "IncluidoEnElPlan": false,
+    "SumaDeLasEvaluaciones": 0.0,
+    "TotalDeLasEvaluaciones": 0
+  }
+]
